@@ -1,0 +1,7 @@
+*.pyc
+env/*
+venv/*
+*.ipynb
+*.csv
+*.json
+! data/*
